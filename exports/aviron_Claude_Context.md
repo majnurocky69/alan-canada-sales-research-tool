@@ -1,4 +1,4 @@
-# Alan Canada Sales Context: aviron
+# Target Audience Sales Context: aviron
 
 **Target Propensity Score:** 50/100
 
@@ -9,13 +9,13 @@ Aviron is a health, wellness & fitness technology company based in Toronto, Cana
 > *Note: Use these angles to construct your cold outreach sequences.*
 
 ### Scaling & Growth Stage
-Aviron is a Series A funded company with $41.6M in total funding and active expansion into new markets like the UK, Europe, and Asia. This growth trajectory suggests a need for robust, flexible benefits that can support a growing team and attract new talent, aligning perfectly with Alan Canada's modern digital-first health insurance.
+Aviron is a Series A funded company with $41.6M in total funding and active expansion into new markets like the UK, Europe, and Asia. This growth trajectory suggests a need for robust, flexible benefits that can support a growing team and attract new talent, aligning perfectly with Target Audience's modern digital-first health insurance.
 
 ### Wellness-Oriented Industry & Modern Approach
-As a fitness technology company, Aviron's core business revolves around health and wellness. This indicates a natural alignment with Alan Canada's offering, which emphasizes virtual care, mental health support, and proactive well-being. Alan's digital-first platform offers a modern, engaging approach to health benefits that would resonate with an innovative fitness tech company.
+As a fitness technology company, Aviron's core business revolves around health and wellness. This indicates a natural alignment with Target Audience's offering, which emphasizes virtual care, mental health support, and proactive well-being. 's digital-first platform offers a modern, engaging approach to health benefits that would resonate with an innovative fitness tech company.
 
 ### Local Alignment & Premium Benefits
-Headquartered in Toronto, Ontario, Aviron is an ideal Canadian prospect for Alan Canada. Highlight Alan's premium offering that supplements public healthcare, provides 48-hour reimbursements, and allows choice of any licensed provider, positioning it as a superior benefit package for their Canadian employees.
+Headquartered in Toronto, Ontario, Aviron is an ideal Canadian prospect for Target Audience. Highlight 's premium offering that supplements public healthcare, provides 48-hour reimbursements, and allows choice of any licensed provider, positioning it as a superior benefit package for their Canadian employees.
 
 ## 3. Top Tier Decision Makers
 - **Andy Hoang** • *Founder and CEO*

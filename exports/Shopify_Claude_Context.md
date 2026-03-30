@@ -1,4 +1,4 @@
-# Alan Canada Sales Context: Shopify
+# Target Audience Sales Context: Shopify
 
 **Target Propensity Score:** 35/100
 
@@ -9,10 +9,10 @@ Shopify is a global e-commerce platform based in Ottawa, Ontario, with a substan
 > *Note: Use these angles to construct your cold outreach sequences.*
 
 ### Addressing Employee Morale & Retention Post-Layoffs
-Shopify's recent layoffs, described as 'The Death of Shopify’s Start-up Dream,' indicate a period of significant internal change and potential impact on employee morale. Alan Canada's comprehensive digital-first health insurance, featuring virtual care and robust mental health support, can be positioned as a vital benefit to demonstrate commitment to remaining employees' well-being, helping to stabilize morale, reduce turnover risk, and attract top talent during a sensitive transition.
+Shopify's recent layoffs, described as 'The Death of Shopify’s Start-up Dream,' indicate a period of significant internal change and potential impact on employee morale. Target Audience's comprehensive digital-first health insurance, featuring virtual care and robust mental health support, can be positioned as a vital benefit to demonstrate commitment to remaining employees' well-being, helping to stabilize morale, reduce turnover risk, and attract top talent during a sensitive transition.
 
 ### Modern Benefits for a Forward-Thinking Tech Company
-As a leader in commerce innovation, consistently shipping 150+ new features and leveraging AI ('Shopify Magic'), Shopify should extend its forward-thinking approach to employee benefits. Alan Canada's modern health insurance, offering 48-hour reimbursements and freedom to choose any licensed provider, aligns with Shopify's ethos of speed, flexibility, and empowering choice, enhancing the overall employee value proposition for its Canadian team members.
+As a leader in commerce innovation, consistently shipping 150+ new features and leveraging AI ('Shopify Magic'), Shopify should extend its forward-thinking approach to employee benefits. Target Audience's modern health insurance, offering 48-hour reimbursements and freedom to choose any licensed provider, aligns with Shopify's ethos of speed, flexibility, and empowering choice, enhancing the overall employee value proposition for its Canadian team members.
 
 ## 3. Top Tier Decision Makers
 - Contact Search Bypassed.

@@ -26,12 +26,11 @@ def safe_md(text):
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="Alan Canada | Sales Intelligence",
-    page_icon="🍁",
+    page_title="B2B Sales Intelligence",
     layout="wide"
 )
 
-# --- CUSTOM CSS (Alan Branding) ---
+# --- CUSTOM CSS (Brand Theme) ---
 st.markdown("""
 <style>
     /* Clean Typography & Background */
@@ -94,8 +93,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- HEADER ---
-st.title("Alan Lead Intelligence")
-st.markdown("Automated scouting and scoring for B2B health insurance prospects.")
+st.title("B2B Lead Intelligence")
+st.markdown("Automated scouting and scoring for targeted prospect outreach.")
 st.divider()
 
 # --- SIDEBAR ---

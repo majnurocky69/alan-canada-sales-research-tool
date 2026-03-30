@@ -1,4 +1,4 @@
-# Alan Canada Sales Context: Sidekick
+# Target Audience Sales Context: Sidekick
 
 **Target Propensity Score:** 70/100
 
@@ -9,13 +9,13 @@ Sidekick is a Toronto-based retail company specializing in muscle recovery and i
 > *Note: Use these angles to construct your cold outreach sequences.*
 
 ### Wellness-Centric Mission & HSA/FSA Alignment
-Sidekick's entire business revolves around health, recovery, and pain relief, and their products are HSA/FSA approved, indicating a strong understanding of and value for health benefits. This provides a direct bridge to Alan Canada's offering, emphasizing how comprehensive health coverage aligns with their mission to improve well-being. Highlight how Alan can help extend this commitment to their own employees, ensuring 'healing smarter' for their team as well as their customers.
+Sidekick's entire business revolves around health, recovery, and pain relief, and their products are HSA/FSA approved, indicating a strong understanding of and value for health benefits. This provides a direct bridge to Target Audience's offering, emphasizing how comprehensive health coverage aligns with their mission to improve well-being. Highlight how  can help extend this commitment to their own employees, ensuring 'healing smarter' for their team as well as their customers.
 
 ### Saving Money on Healthcare Costs
-Customer testimonials mention Sidekick tools 'saving money and trips to the doctor' for individuals. This pain point of managing healthcare costs and access to care is directly addressed by Alan Canada. Position Alan's premium digital-first health insurance as a solution that offers employees significant cost savings through virtual care, 48-hour reimbursements, and freedom to choose any licensed provider, reducing out-of-pocket expenses and providing better value than traditional plans.
+Customer testimonials mention Sidekick tools 'saving money and trips to the doctor' for individuals. This pain point of managing healthcare costs and access to care is directly addressed by Target Audience. Position 's premium digital-first health insurance as a solution that offers employees significant cost savings through virtual care, 48-hour reimbursements, and freedom to choose any licensed provider, reducing out-of-pocket expenses and providing better value than traditional plans.
 
 ### Digital-First & Modern Approach to Health
-Sidekick embraces a modern, digital approach by offering 'Sidekick University' with instructional videos for at-home recovery. This signals a cultural compatibility with Alan Canada's digital-first platform, virtual care options, and efficient processes like 48-hour reimbursements. Emphasize how Alan can provide a seamless, modern health insurance experience that aligns with Sidekick's innovative approach to health and wellness.
+Sidekick embraces a modern, digital approach by offering 'Sidekick University' with instructional videos for at-home recovery. This signals a cultural compatibility with Target Audience's digital-first platform, virtual care options, and efficient processes like 48-hour reimbursements. Emphasize how  can provide a seamless, modern health insurance experience that aligns with Sidekick's innovative approach to health and wellness.
 
 ## 3. Referenced Deep Web Citations
 - **Apollo Demographics**: Employee count (15), location (Toronto, Ontario), industry (retail), total funding ($330K), and short company description were used. ([Link](N/A))

@@ -1,4 +1,4 @@
-# Alan Canada Sales Context: Wealthsimple
+# Target Audience Sales Context: Wealthsimple
 
 **Target Propensity Score:** 37/100
 
@@ -9,13 +9,13 @@ Wealthsimple is a rapidly growing Toronto-based fintech company with an estimate
 > *Note: Use these angles to construct your cold outreach sequences.*
 
 ### Scaling Premium Benefits for a High-Growth Fintech
-Wealthsimple's impressive 94% YoY growth and continuous expansion into new financial services, such as prediction trading and international payments, indicate a dynamic and rapidly scaling organization. A sales representative can highlight how Alan Canada's digital-first, premium health insurance is ideally suited to scale with their operations, providing 48-hour reimbursements, virtual care, and mental health support to meet the needs of their 1700+ employees in a competitive fintech landscape, thus enhancing talent acquisition and retention.
+Wealthsimple's impressive 94% YoY growth and continuous expansion into new financial services, such as prediction trading and international payments, indicate a dynamic and rapidly scaling organization. A sales representative can highlight how Target Audience's digital-first, premium health insurance is ideally suited to scale with their operations, providing 48-hour reimbursements, virtual care, and mental health support to meet the needs of their 1700+ employees in a competitive fintech landscape, thus enhancing talent acquisition and retention.
 
 ### Modern Wellness for a Modern Workforce
-As a company focused on democratizing wealth-building and providing accessible financial services, Wealthsimple likely values modern, user-friendly experiences. Alan Canada's platform offers a seamless digital experience with virtual care and unrestricted provider choice, aligning with a tech-forward company's ethos. This proposition can be positioned as a way to provide their large workforce with convenient and comprehensive health benefits that complement public healthcare and resonate with their own digital-first approach.
+As a company focused on democratizing wealth-building and providing accessible financial services, Wealthsimple likely values modern, user-friendly experiences. Target Audience's platform offers a seamless digital experience with virtual care and unrestricted provider choice, aligning with a tech-forward company's ethos. This proposition can be positioned as a way to provide their large workforce with convenient and comprehensive health benefits that complement public healthcare and resonate with their own digital-first approach.
 
 ### Strategic Enhancement of Employee Value Proposition
-While Wealthsimple's public-facing content focuses on client benefits, their rapid growth and presence in a demanding financial industry imply a critical need for robust employee support. This creates an opportunity to introduce Alan Canada’s comprehensive mental health support and overall modern wellness offerings as a strategic investment. This would demonstrate a strong commitment to employee well-being, potentially improving productivity and solidifying their position as an employer of choice in a competitive market.
+While Wealthsimple's public-facing content focuses on client benefits, their rapid growth and presence in a demanding financial industry imply a critical need for robust employee support. This creates an opportunity to introduce Target Audience’s comprehensive mental health support and overall modern wellness offerings as a strategic investment. This would demonstrate a strong commitment to employee well-being, potentially improving productivity and solidifying their position as an employer of choice in a competitive market.
 
 ## 3. Referenced Deep Web Citations
 - **Apollo Demographics**: Wealthsimple has 1700 employees and is headquartered in Toronto, Ontario. ([Link](N/A))

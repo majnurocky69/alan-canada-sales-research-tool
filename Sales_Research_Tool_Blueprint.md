@@ -1,9 +1,9 @@
-# Alan Canada Sales Research Tool: System Blueprint
+# B2B Analytics Sales Research Tool: System Blueprint
 
 ## Overview
-This document serves as the authoritative blueprint for building the locally hosted Sales Research Tool for the Alan Canada sales team. The tool automates the process of evaluating potential B2B clients for Alan Canada's premium health insurance products.
+This document serves as the authoritative blueprint for building the locally hosted Sales Research Tool for the B2B Analytics sales team. The tool automates the process of evaluating potential B2B clients for B2B Analytics's premium health insurance products.
 
-## 1. Product Context & Target Market (Alan Canada)
+## 1. Product Context & Target Market (B2B Analytics)
 - **Product:** Premium health insurance that supplements public healthcare. It features a digital-first experience, 48-hour reimbursements, flexibility in choosing licensed providers (no restricted networks), and includes mental health support and virtual care.
 - **Ideal Customer Profile (ICP):**
   - **Company Size:** 5 to 100 employees.
@@ -17,7 +17,7 @@ Each researched company is evaluated against 6 key metrics by an AI (OpenAI API)
 3. **News & Pain Points (15%):** Evidence of recent challenges the company faces, ideally around employee retention, benefits administration, or general scaling pains.
 4. **Growth trajectory (10%):** Increase in headcount or recent funding/expansion signals.
 5. **HR Signals (10%):** Recent hiring of People Ops, HR Managers, or Benefit Coordinators indicating a scaling team that might need modern benefits.
-6. **Benefit Status & Culture (15%):** Mentions of employee wellness, or evidence that they are currently using a clunky legacy provider ("XYZ Insurance") which Alan Canada can replace.
+6. **Benefit Status & Culture (15%):** Mentions of employee wellness, or evidence that they are currently using a clunky legacy provider ("XYZ Insurance") which B2B Analytics can replace.
 
 ## 3. Technology Stack
 The application is built to run entirely locally on the sales rep's machine (macOS/Windows) to keep proprietary sales strategies and prospect lists private.
@@ -79,4 +79,4 @@ sales_research_tool/
 - [ ] **Phase 5: UX Polish.** Connect the Streamlit UI to display spinners, real-time logging, and final results nicely.
 
 ---
-*Created by Antigravity for Alan Canada Sales Operations.*
+*Created by Antigravity for B2B Analytics Sales Operations.*

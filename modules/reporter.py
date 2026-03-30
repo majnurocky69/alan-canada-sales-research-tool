@@ -31,7 +31,7 @@ def inject_visual_analytics(filepath):
         chart = BarChart()
         chart.type = "col"
         chart.style = 13 # Sharp corporate blue style
-        chart.title = "Target Lead Propensity (Alan ICP Match)"
+        chart.title = "Target Lead Propensity (ICP Match)"
         chart.y_axis.title = "Score / 100"
         chart.x_axis.title = "Target Company"
         chart.legend = None # Remove generic unhelpful legend tags
@@ -116,7 +116,7 @@ def export_to_markdown(company_name, ai_evaluation):
     safe_name = company_name.replace(" ", "_").replace("/", "").replace("\\", "").replace(".", "")
     filename = f"{EXPORTS_DIR}/{safe_name}_Claude_Context.md"
     
-    content = f"# Alan Canada Sales Context: {company_name}\n\n"
+    content = f"# Target Sales Context: {company_name}\n\n"
     content += f"**Target Propensity Score:** {ai_evaluation.get('total_score', 'Unknown')}/100\n\n"
     
     content += "## 1. Executive Summary & Growth Trajectory\n"
